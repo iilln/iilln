@@ -1,32 +1,49 @@
-## ⚡ Hey, I'm NORAH
-<h3 align="center">Cybersecurity | SOC Analyst (L1) | GRC | ISO 27001</h3>
-Cybersecurity enthusiast curious and bold, always eager to learn and try new things.  
-I explore how systems and tools work, then figure out how to secure them.
+# Hey, I'm NORAH 👋
 
-**Current focus:** Cybersecurity · Beginner Python · Learning from simple labs  
-**Style:** Curious, fast learner, loves challenges
+## Aspiring Cybersecurity Analyst | SOC Enthusiast | GRC Learner | ISO 27001 Basics
 
----
+Cybersecurity graduate with a foundational understanding of information security. Eager to grow in the field and passionate about protecting systems and networks. Currently building hands-on experience with essential tools and concepts.
 
-### 🔭 What I'm learning
-- Basics of network and log analysis  
-- Python for small experiments and tools  
-- Following educational lab challenges like TryHackMe  
+**Currently Exploring:** SOC Operations · Python Basics for Security · Security Labs  
+**My Approach:** Curious, detail-aware, committed to continuous learning
 
 ---
 
-### 🛠 Skills & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+## 🎓 Education & Background
+
+- Bachelor's Degree in Cybersecurity  
+- Basic understanding of network security and monitoring  
+- Exposure to security tools and practices  
+- Introductory knowledge of GRC frameworks and ISO 27001
 
 ---
 
-### 📫 Connect with me
-- LinkedIn: www.linkedin.com/in/iilln
+## 📚 Learning & Development
+
+- Learning network traffic analysis using Wireshark  
+- Exploring basic incident response workflows  
+- Practicing Python scripting for simple security tasks  
+- Engaging in platforms like TryHackMe and other hands-on labs
+
 ---
 
-### ⚡ Quick mantra
-> Learning every day and building my skills step by step
+## 💻 Technical Skills (In Progress)
+
+- 🐍 **Python** — Beginner level, learning basics for scripting and automation  
+- 🕵️‍♀️ **Wireshark** — Exploring traffic analysis and packet capture  
+- 🔐 **SIEM** — Gaining introductory knowledge of security event monitoring  
+- 🐧 **Linux** — Learning terminal basics and system navigation  
+- 🌐 **Network Security** — Understanding core concepts and protocols
+
+---
+
+## 📞 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norah-alhafix)
+
+---
+
+## 🚀 Career Goals
+
+I'm seeking entry-level or internship opportunities in cybersecurity, especially in SOC environments, where I can apply my learning, gain real-world experience, and grow with the guidance of professionals.
+
