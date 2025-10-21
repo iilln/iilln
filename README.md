@@ -3,7 +3,7 @@
 Cybersecurity enthusiast curious and bold, always eager to learn and try new things.  
 I explore how systems and tools work, then figure out how to secure them.
 
-**Current focus:** Cybersecurity basics · Beginner Python · Learning from simple labs  
+**Current focus:** Cybersecurity · Beginner Python · Learning from simple labs  
 **Style:** Curious, fast learner, loves challenges
 
 ---
